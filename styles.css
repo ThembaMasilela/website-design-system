@@ -1,0 +1,248 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    background-color: #596273;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+nav ul {
+    text-align: center;
+    margin: 10px;
+}
+
+nav ul li {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    margin: 0 20px;
+    font-weight: bold;
+    font-size:30px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    margin: 0 20px;
+    font-weight: bold;
+    font-size:30px;
+}
+
+
+nav ul li a:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+section {
+    width: 70%;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+.heading {
+    margin-top: 0;
+    background-image: url(images/fakurian-design-aRdD8c1Xaeg-unsplash.jpg);
+    height: 900px;
+    background-position:center;
+}
+
+.container {
+    width: 100%;
+}
+.heading .heading-content{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    padding-top: 100px;
+    margin: 0 auto;
+    position: relative;
+    top: 200px;
+}
+
+.heading .heading-content h1 {
+    font-weight:bolder;
+    font-size:50px;
+    color: white;
+}
+
+.heading p {
+    color: white;
+    text-align: center;
+}
+
+.heading a {
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+}
+
+.button {
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    color: white;
+    border: 2px solid green;
+    border-radius: 15px;
+}
+
+.button:hover {
+    background-color: green;
+    color: white;
+}
+
+footer {
+    background-image: url(images/fakurian-design-aRdD8c1Xaeg-unsplash.jpg);
+    height: 100px;
+    width: 100%;
+    position: relative;
+    left: 0;
+    top: 100px;
+}
+
+footer h3 {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 40px;
+    bottom: 0;
+}
+
+
+.palletes {
+    border: 1px solid black;
+    margin: 5px;
+    display: inline-block;
+    padding: 5px;
+    text-align: center;
+    height: 270px;
+    width: 300px;
+}
+
+.color {
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+#col1 {
+    background-color: #f5eec2;
+}
+
+#col2 {
+    background-color: #416a59;
+}
+
+#col3 {
+    background-color: #39395f;
+}
+
+#col4 {
+    background-color: #73a24e;
+}
+
+#col5 {
+    background-color: #a9c25d;
+}
+
+#col6 {
+    background-color: #f6c453;
+}
+
+#col7 {
+    background-color: #fefbe9;
+}
+
+#col8 {
+    background-color: #f0a04b;
+}
+
+#col9 {
+    background-color: #183a1d;
+}
+
+#col10 {
+    background-color: #e1eedd;
+}
+
+#col11 {
+    background-color: #e4ddf4;
+}
+
+#col12 {
+    background-color: #943d24;
+}
+
+#col13 {
+    background-color: #fffbf0;
+}
+
+#col14 {
+    background-color: #2d2d2d;
+}
+
+#col15 {
+    background-color: #282612;
+}
+
+#col16 {
+    background-color: #f5eec2;
+}
+
+#col17 {
+    background-color: #416a59;
+}
+
+#col18 {
+    background-color: #39395f;
+}
+
+#col19 {
+    background-color: #73a24e;
+}
+
+#col20 {
+    background-color: #9b45b2;
+}
+
+.Open-Sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.Montserrat {
+    font-family: 'Montserrat', sans-serif;;
+}
+
+.Roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.Playfair-Display {
+    font-family: 'Playfair Display', serif;
+}
+
+.Helvetica {
+    font-family: Helvetica, sans-serif;
+}
+
+.Fonts-Group {
+    text-align: center;
+}
+
+.font-type p {
+    margin: 40px;
+    font-weight: 200px;
+    font-size: 30px;
+}
